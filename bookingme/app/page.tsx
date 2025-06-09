@@ -1,10 +1,10 @@
-import { AppSidebar } from "./layout/sidebarmenu";
+import React from 'react'
 
 
-export default function HomePage() {
+export default function page() {
   return (
-    <div className="p-4">
-      <AppSidebar />
+    <div>
+    
     </div>
-  );
+  )
 }
